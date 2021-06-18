@@ -1,0 +1,32 @@
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+
+#header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.background {
+    background-color: #7a5901;
+    align-items: center;
+    align-content: center;
+}
+
+.info {
+    display: none;
+}
+
+.button:hover .info {
+    display: block;
+    align-items: center;
+}
+
+#table {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    align-self: center;
+    font-style: italic;
+}
